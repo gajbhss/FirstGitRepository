@@ -17,7 +17,7 @@ public class launchGoogle {
 		driver.get("https://www.google.com");
 		System.out.println("End");
 		driver.quit();
-		System.out.println("End");
+		System.out.println("S");
 	}
 
 }
