@@ -18,6 +18,8 @@ public class launchGoogle {
 		System.out.println("End");
 		driver.quit();
 		System.out.println("Done");
+		
+		System.out.println("Today");
 	}
 
 }
